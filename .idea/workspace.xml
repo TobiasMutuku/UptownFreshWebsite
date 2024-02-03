@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5982f70d-7e91-4e6d-9c6d-12782565f717" name="Changes" comment="updated">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/products/p-02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/products/p-05.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/products/p-06.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/products/p-08.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/products/p-09.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/products/p-10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/products/p-11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/products/p-12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/products/p-13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/products/p-14.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/products/p-15.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/products/p-16.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/products/p-17.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/products/p-18.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/uploads/product-featured-100.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/uploads/product-featured-100.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/uploads/product-featured-101.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/uploads/product-featured-101.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/uploads/product-featured-102.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/uploads/product-featured-102.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/uploads/product-featured-83.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/uploads/product-featured-83.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/uploads/product-featured-84.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/uploads/product-featured-84.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/uploads/product-featured-85.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/uploads/product-featured-85.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/uploads/product-featured-86.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/uploads/product-featured-86.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/uploads/product-featured-87.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/uploads/product-featured-87.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/uploads/product-featured-88.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/uploads/product-featured-88.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/uploads/product-featured-89.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/uploads/product-featured-89.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/uploads/product-featured-90.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/uploads/product-featured-90.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/uploads/product-featured-91.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/uploads/product-featured-91.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/uploads/product-featured-92.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/uploads/product-featured-92.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/uploads/product-featured-93.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/uploads/product-featured-93.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/uploads/product-featured-94.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/uploads/product-featured-94.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/uploads/product-featured-95.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/uploads/product-featured-95.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/uploads/product-featured-96.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/uploads/product-featured-96.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/uploads/product-featured-97.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/uploads/product-featured-97.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/uploads/product-featured-98.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/uploads/product-featured-98.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/uploads/product-featured-99.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/uploads/product-featured-99.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/uploads/product_photos/106.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/uploads/product_photos/107.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/uploads/product_photos/108.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/uploads/product_photos/109.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/uploads/product_photos/110.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/uploads/product_photos/111.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/uploads/product_photos/112.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/uploads/product_photos/113.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/uploads/product_photos/114.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/uploads/product_photos/115.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/uploads/product_photos/116.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/uploads/product_photos/117.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/uploads/product_photos/118.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/uploads/product_photos/119.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/uploads/product_photos/120.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/uploads/product_photos/121.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/uploads/product_photos/122.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/uploads/product_photos/123.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/uploads/product_photos/124.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/uploads/product_photos/125.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/uploads/product_photos/126.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/uploads/product_photos/127.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/uploads/product_photos/128.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/uploads/product_photos/129.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/uploads/product_photos/130.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/uploads/product_photos/131.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/uploads/product_photos/132.jpg" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="franzuki &lt;nzukifrancis20@gmail.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2C3xbu9bcEOMH7uevY8fdQDkdhZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/xampp/htdocs/Agricultural-sales-master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="JavaScript Debug.index.html">
+    <configuration name="index" type="NodeJSConfigurationType" path-to-node="node" working-dir="$PROJECT_DIR$">
+      <EXTENSION ID="com.jetbrains.nodejs.run.NodeStartBrowserRunConfigurationExtension">
+        <browser start="true" />
+      </EXTENSION>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5982f70d-7e91-4e6d-9c6d-12782565f717" name="Changes" comment="" />
+      <created>1658045148287</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1658045148287</updated>
+      <workItem from="1658045152904" duration="11000" />
+      <workItem from="1658045290244" duration="6195000" />
+      <workItem from="1668135907589" duration="1834000" />
+      <workItem from="1668516385208" duration="97000" />
+      <workItem from="1675782650371" duration="701000" />
+      <workItem from="1676287042087" duration="93000" />
+    </task>
+    <task id="LOCAL-00001" summary="fixed bugs">
+      <created>1658049777245</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1658049777245</updated>
+    </task>
+    <task id="LOCAL-00002" summary="fixed bugs">
+      <created>1658049821754</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1658049821754</updated>
+    </task>
+    <task id="LOCAL-00003" summary="fixed bugs">
+      <created>1658049908870</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1658049908870</updated>
+    </task>
+    <task id="LOCAL-00004" summary="edited database">
+      <created>1658051274131</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1658051274131</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;DATABASE FILE/ecommerceweb.sql">
+      <created>1658052151497</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1658052151497</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;DATABASE FILE/ecommerceweb.sql">
+      <created>1658052190724</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1658052190724</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;DATABASE FILE/ecommerceweb.sql">
+      <created>1658052800702</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1658052800702</updated>
+    </task>
+    <task id="LOCAL-00008" summary="updated">
+      <created>1658053360203</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1658053360203</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fixed bugs" />
+    <MESSAGE value="edited database" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;DATABASE FILE/ecommerceweb.sql" />
+    <MESSAGE value="updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated" />
+  </component>
+</project>

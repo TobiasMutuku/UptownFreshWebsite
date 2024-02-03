@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+    <defs>
+        <style>.cls-1{fill:#fff;}.cls-2{fill:#ebc634;}</style>
+    </defs>
+    <title>Mail, Emails, envelopes, messages</title>
+    <g id="_22" data-name="22">
+        <path class="cls-1" d="M16.009,15.792,28.847,7.234A2,2,0,0,0,27,6H5A1.991,1.991,0,0,0,3.262,7.029Z"/>
+        <path class="cls-2" d="M16.555,17.832a1,1,0,0,1-1.121-.008L3,9.276V24a2,2,0,0,0,2,2H27a2,2,0,0,0,2-2V9.535Z"/>
+    </g>
+</svg>
